@@ -1,0 +1,6 @@
+name: Murder
+version: 0.2
+api: 2.0.0
+author: LeandroXisder
+
+main: murder\Main
