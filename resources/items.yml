@@ -1,0 +1,30 @@
+# Aqui voce pode configurar os itens que virão para cada jogador:
+
+murder:
+  items:
+    weapon:
+      item: "267:0:1"
+      customName: "§cEspada do Assasino"
+      enchantments: []
+    compass:
+      item: "345:0:1"
+      customName: "§cBussola de inocentes\n§c(Ela nao aponta para o player!)"
+      enchantments: []
+    coin:
+      item: "266:0:1"
+      customName: "§cMoeda Falsa"
+      enchantments: []
+    gadget:
+      item: "262:0:1"
+      customName: "§cAdrenalina\n§7(Concede velocidade...)"
+      enchantments: []
+
+detective:
+  items:
+    bow:
+      item: "261:0:1"
+      customName: "§aArco do Detetive"
+      enchantments: []
+    arrow:
+      item: "262:0:1"
+      enchantments: []

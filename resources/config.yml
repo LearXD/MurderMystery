@@ -1,0 +1,13 @@
+#ARQUIVO DE CONFIGURAÇÕES GERAIS DO Murder Mystery...
+
+# Máximo de jogadores por partida:
+max-players-per-match: 12
+
+# Minimo de jogadores por partida (3 é o recomendado):
+min-players-per-match: 3
+
+# COUNTDOWN PARA O DETETIVE RECEBER A FLECHA NOVAMENTE
+give-back-arrow-countdown: 10
+
+# QUANTIDADE DE OUROS PARA UM INOCENTE TROCAR EM UM ARCO
+amount-for-exchange: 10
